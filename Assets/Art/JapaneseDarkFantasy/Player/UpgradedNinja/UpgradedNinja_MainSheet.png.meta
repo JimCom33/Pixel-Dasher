@@ -1,0 +1,755 @@
+fileFormatVersion: 2
+guid: 60b0cd0ac51fa85419fb6b7667adc029
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2915806556548400764
+    second: UpgradedNinja_MainSheet_0
+  - first:
+      213: -3509781773876234894
+    second: UpgradedNinja_MainSheet_1
+  - first:
+      213: 4345217583633799129
+    second: UpgradedNinja_MainSheet_2
+  - first:
+      213: 5288455584982175316
+    second: UpgradedNinja_MainSheet_3
+  - first:
+      213: 8123295536671345844
+    second: UpgradedNinja_MainSheet_4
+  - first:
+      213: -2232173203662136317
+    second: UpgradedNinja_MainSheet_5
+  - first:
+      213: 2167295173735522474
+    second: UpgradedNinja_MainSheet_6
+  - first:
+      213: 7342282244681056033
+    second: UpgradedNinja_MainSheet_7
+  - first:
+      213: 1146985500826803261
+    second: UpgradedNinja_MainSheet_8
+  - first:
+      213: -1617317574731191442
+    second: UpgradedNinja_MainSheet_9
+  - first:
+      213: -2565415472502570117
+    second: UpgradedNinja_MainSheet_10
+  - first:
+      213: -2171037204031245788
+    second: UpgradedNinja_MainSheet_11
+  - first:
+      213: 7592639944869012367
+    second: UpgradedNinja_MainSheet_12
+  - first:
+      213: -1209384897847570226
+    second: UpgradedNinja_MainSheet_13
+  - first:
+      213: -1278358533504908452
+    second: UpgradedNinja_MainSheet_14
+  - first:
+      213: 8196761247528003518
+    second: UpgradedNinja_MainSheet_15
+  - first:
+      213: -8468848142849318488
+    second: UpgradedNinja_MainSheet_16
+  - first:
+      213: -1928216614092849852
+    second: UpgradedNinja_MainSheet_17
+  - first:
+      213: 6048002208738382287
+    second: UpgradedNinja_MainSheet_18
+  - first:
+      213: -6942672062437114368
+    second: UpgradedNinja_MainSheet_19
+  - first:
+      213: -1755491874151999974
+    second: UpgradedNinja_MainSheet_20
+  - first:
+      213: 1089873175999395188
+    second: UpgradedNinja_MainSheet_21
+  - first:
+      213: -618793156309028882
+    second: UpgradedNinja_MainSheet_22
+  - first:
+      213: 3227303269404257739
+    second: UpgradedNinja_MainSheet_23
+  - first:
+      213: -662593876686213917
+    second: UpgradedNinja_MainSheet_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 84
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UpgradedNinja_MainSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 827
+        width: 211
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4897d2ba269f887d0800000000000000
+      internalID: -2915806556548400764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradedNinja_MainSheet_1
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 827
+        width: 121
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27577f08210ca4fc0800000000000000
+      internalID: -3509781773876234894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradedNinja_MainSheet_2
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 895
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d71640de505d4c30800000000000000
+      internalID: 4345217583633799129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradedNinja_MainSheet_3
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 825
+        width: 120
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e0b49c55e546940800000000000000
+      internalID: 5288455584982175316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradedNinja_MainSheet_4
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 827
+        width: 194
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bccfc4604ebbb070800000000000000
+      internalID: 8123295536671345844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradedNinja_MainSheet_5
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 451
+        width: 577
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c929e3c4ab501e0800000000000000
+      internalID: -2232173203662136317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradedNinja_MainSheet_6
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 653
+        width: 140
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0ace94a77c31e10800000000000000
+      internalID: 2167295173735522474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradedNinja_MainSheet_7
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 652
+        width: 146
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f3fdaecc605e560800000000000000
+      internalID: 7342282244681056033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradedNinja_MainSheet_8
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 653
+        width: 145
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c1e4b6c39eaef00800000000000000
+      internalID: 1146985500826803261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradedNinja_MainSheet_9
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 652
+        width: 137
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ba6251c322e89e0800000000000000
+      internalID: -1617317574731191442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradedNinja_MainSheet_10
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 655
+        width: 147
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73813c4830d56cd0800000000000000
+      internalID: -2565415472502570117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradedNinja_MainSheet_11
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 455
+        width: 120
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4227f836a2deed1e0800000000000000
+      internalID: -2171037204031245788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradedNinja_MainSheet_12
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 453
+        width: 187
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83eb556dc97e5960800000000000000
+      internalID: 7592639944869012367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradedNinja_MainSheet_13
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 455
+        width: 206
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0d21fc7d6673fe0800000000000000
+      internalID: -1209384897847570226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradedNinja_MainSheet_14
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 452
+        width: 436
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53c9d2dfab524ee0800000000000000
+      internalID: -1278358533504908452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradedNinja_MainSheet_15
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 450
+        width: 222
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb728932deeb0c170800000000000000
+      internalID: 8196761247528003518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradedNinja_MainSheet_16
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 263
+        width: 127
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a16db4eb7b987a80800000000000000
+      internalID: -8468848142849318488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradedNinja_MainSheet_17
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 260
+        width: 144
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d3df2a4399d35e0800000000000000
+      internalID: -1928216614092849852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradedNinja_MainSheet_18
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 262
+        width: 142
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc111a417f1dee350800000000000000
+      internalID: 6048002208738382287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradedNinja_MainSheet_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 249
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e38660b8ca6af90800000000000000
+      internalID: -6942672062437114368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradedNinja_MainSheet_20
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 79
+        width: 186
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16d513017d33a7e0800000000000000
+      internalID: -1755491874151999974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradedNinja_MainSheet_21
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 74
+        width: 206
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475bba111e1002f00800000000000000
+      internalID: 1089873175999395188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradedNinja_MainSheet_22
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 69
+        width: 190
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eefe1c027ea9967f0800000000000000
+      internalID: -618793156309028882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradedNinja_MainSheet_23
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 67
+        width: 181
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd2c4b793fa9cc20800000000000000
+      internalID: 3227303269404257739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradedNinja_MainSheet_24
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 0
+        width: 285
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ece4c5316efdc6f0800000000000000
+      internalID: -662593876686213917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

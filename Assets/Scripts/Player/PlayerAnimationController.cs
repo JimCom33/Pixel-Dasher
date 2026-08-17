@@ -6,12 +6,15 @@ public class PlayerAnimationController : MonoBehaviour
 {
     private static readonly int IsMoving = Animator.StringToHash("IsMoving");
     private static readonly int IsJumping = Animator.StringToHash("IsJumping");
+    private static readonly int IsWallSliding = Animator.StringToHash("IsWallSliding");
+    private static readonly int DoubleJump = Animator.StringToHash("DoubleJump");
     private static readonly int Attack = Animator.StringToHash("Attack");
     private static readonly int AttackState = Animator.StringToHash("Ninja_Attack1");
 
     private Animator animator;
     private PlayerMovement movement;
     private SpriteRenderer spriteRenderer;
+    private int handledDoubleJumpSequence;
 
     private void Awake()
     {
@@ -32,6 +35,13 @@ public class PlayerAnimationController : MonoBehaviour
 
         animator.SetBool(IsMoving, isMoving);
         animator.SetBool(IsJumping, isJumping);
+        animator.SetBool(IsWallSliding, movement.IsWallSliding);
+
+        if (movement.DoubleJumpSequence != handledDoubleJumpSequence)
+        {
+            handledDoubleJumpSequence = movement.DoubleJumpSequence;
+            animator.SetTrigger(DoubleJump);
+        }
 
         Mouse mouse = Mouse.current;
         if (mouse != null

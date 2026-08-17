@@ -1,0 +1,2455 @@
+fileFormatVersion: 2
+guid: 9cf99cbf8a5a26d489a81c791d142fca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2390531524977032338
+    second: CombatEffects_0
+  - first:
+      213: -7962236686590220459
+    second: CombatEffects_1
+  - first:
+      213: -8486786782192840521
+    second: CombatEffects_2
+  - first:
+      213: -7419833645461780305
+    second: CombatEffects_3
+  - first:
+      213: -3724087011196658254
+    second: CombatEffects_4
+  - first:
+      213: -5391580776322977910
+    second: CombatEffects_5
+  - first:
+      213: -7608363114403418423
+    second: CombatEffects_6
+  - first:
+      213: -5497981487497625494
+    second: CombatEffects_7
+  - first:
+      213: 7374241284177450741
+    second: CombatEffects_8
+  - first:
+      213: -5769377272553535745
+    second: CombatEffects_9
+  - first:
+      213: 2783069597273078391
+    second: CombatEffects_10
+  - first:
+      213: -8468992661906528955
+    second: CombatEffects_11
+  - first:
+      213: 5234779807646379189
+    second: CombatEffects_12
+  - first:
+      213: -8161905517115066970
+    second: CombatEffects_13
+  - first:
+      213: 1251121892320920338
+    second: CombatEffects_14
+  - first:
+      213: -1357551758520180238
+    second: CombatEffects_15
+  - first:
+      213: -2589029353396931163
+    second: CombatEffects_16
+  - first:
+      213: 1523540074955087955
+    second: CombatEffects_17
+  - first:
+      213: 4711416705367084026
+    second: CombatEffects_18
+  - first:
+      213: -5925390651284146902
+    second: CombatEffects_19
+  - first:
+      213: -6522902223260595840
+    second: CombatEffects_20
+  - first:
+      213: 2268603587933108774
+    second: CombatEffects_21
+  - first:
+      213: 1351391880259590334
+    second: CombatEffects_22
+  - first:
+      213: -6161947770215298507
+    second: CombatEffects_23
+  - first:
+      213: 5758992128628685605
+    second: CombatEffects_24
+  - first:
+      213: 7951631859618679584
+    second: CombatEffects_25
+  - first:
+      213: 2680223927416908114
+    second: CombatEffects_26
+  - first:
+      213: 3620117227613353003
+    second: CombatEffects_27
+  - first:
+      213: -2164507113122602309
+    second: CombatEffects_28
+  - first:
+      213: -1563851214163978724
+    second: CombatEffects_29
+  - first:
+      213: -208207863974305750
+    second: CombatEffects_30
+  - first:
+      213: 5107021006535002933
+    second: CombatEffects_31
+  - first:
+      213: -1826171338690677215
+    second: CombatEffects_32
+  - first:
+      213: 1260734731921605452
+    second: CombatEffects_33
+  - first:
+      213: 3255188034369892202
+    second: CombatEffects_34
+  - first:
+      213: 7555515466843055729
+    second: CombatEffects_35
+  - first:
+      213: -8286373074139664764
+    second: CombatEffects_36
+  - first:
+      213: -3725774960715671834
+    second: CombatEffects_37
+  - first:
+      213: 9021114993000692354
+    second: CombatEffects_38
+  - first:
+      213: -4023694648506348296
+    second: CombatEffects_39
+  - first:
+      213: -6135019251010291736
+    second: CombatEffects_40
+  - first:
+      213: 8355324440158656170
+    second: CombatEffects_41
+  - first:
+      213: -1895535020186946221
+    second: CombatEffects_42
+  - first:
+      213: 4424785093216439285
+    second: CombatEffects_43
+  - first:
+      213: 879602614559793899
+    second: CombatEffects_44
+  - first:
+      213: 2207827062409324269
+    second: CombatEffects_45
+  - first:
+      213: 4447420126061544727
+    second: CombatEffects_46
+  - first:
+      213: 1123291993611858408
+    second: CombatEffects_47
+  - first:
+      213: -1384171977122392176
+    second: CombatEffects_48
+  - first:
+      213: -5464164757932453092
+    second: CombatEffects_49
+  - first:
+      213: 3552873755349096312
+    second: CombatEffects_50
+  - first:
+      213: -7115404550662777027
+    second: CombatEffects_51
+  - first:
+      213: 6828389948792494494
+    second: CombatEffects_52
+  - first:
+      213: 5018706892187577299
+    second: CombatEffects_53
+  - first:
+      213: 9053198663929601955
+    second: CombatEffects_54
+  - first:
+      213: -4102512025994104196
+    second: CombatEffects_55
+  - first:
+      213: -2500951840769865684
+    second: CombatEffects_56
+  - first:
+      213: -224125073930391147
+    second: CombatEffects_57
+  - first:
+      213: -8332645065660710291
+    second: CombatEffects_58
+  - first:
+      213: 1091687686776541074
+    second: CombatEffects_59
+  - first:
+      213: 5440872482596805895
+    second: CombatEffects_60
+  - first:
+      213: -8384623419828163466
+    second: CombatEffects_61
+  - first:
+      213: 8830046411505809571
+    second: CombatEffects_62
+  - first:
+      213: -4385645306238242307
+    second: CombatEffects_63
+  - first:
+      213: -4250973310274309197
+    second: CombatEffects_64
+  - first:
+      213: -2890606441423159278
+    second: CombatEffects_65
+  - first:
+      213: -14580834816983458
+    second: CombatEffects_66
+  - first:
+      213: 1623345416718044071
+    second: CombatEffects_67
+  - first:
+      213: -5922896497864001653
+    second: CombatEffects_68
+  - first:
+      213: -8015802969326107625
+    second: CombatEffects_69
+  - first:
+      213: -1472872105696252095
+    second: CombatEffects_70
+  - first:
+      213: 4346444201743693176
+    second: CombatEffects_71
+  - first:
+      213: -8062371637474848294
+    second: CombatEffects_72
+  - first:
+      213: -714591886639680700
+    second: CombatEffects_73
+  - first:
+      213: -4739947880582868327
+    second: CombatEffects_74
+  - first:
+      213: 6185689506050359707
+    second: CombatEffects_75
+  - first:
+      213: 9036400954264550293
+    second: CombatEffects_76
+  - first:
+      213: -7922716122796129864
+    second: CombatEffects_77
+  - first:
+      213: 2575949052272536403
+    second: CombatEffects_78
+  - first:
+      213: 3091234903041776112
+    second: CombatEffects_79
+  - first:
+      213: -6299616934470921745
+    second: CombatEffects_80
+  - first:
+      213: 7481166096229042789
+    second: CombatEffects_81
+  - first:
+      213: 9008706578618506596
+    second: CombatEffects_82
+  - first:
+      213: 8221061612569503986
+    second: CombatEffects_83
+  - first:
+      213: -7171654189704545501
+    second: CombatEffects_84
+  - first:
+      213: 399737783821889518
+    second: CombatEffects_85
+  - first:
+      213: 6777912379593750903
+    second: CombatEffects_86
+  - first:
+      213: 5033029825647564047
+    second: CombatEffects_87
+  - first:
+      213: -7490112022455369323
+    second: CombatEffects_88
+  - first:
+      213: -7292635915311973434
+    second: CombatEffects_89
+  - first:
+      213: 3853305261275464233
+    second: CombatEffects_90
+  - first:
+      213: -3668485966379833661
+    second: CombatEffects_91
+  - first:
+      213: -5612926387795641996
+    second: CombatEffects_92
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CombatEffects_0
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 581
+        width: 211
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e630f5d5e3023ded0800000000000000
+      internalID: -2390531524977032338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_1
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 533
+        width: 277
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557e4365be3708190800000000000000
+      internalID: -7962236686590220459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_2
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 575
+        width: 163
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b05ae2f260e83a80800000000000000
+      internalID: -8486786782192840521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_3
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 820
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa842c58c94770990800000000000000
+      internalID: -7419833645461780305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_4
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 811
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd1af82892615cc0800000000000000
+      internalID: -3724087011196658254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_5
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 820
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8fa17989d14d25b0800000000000000
+      internalID: -5391580776322977910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_6
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 814
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ceaccbee0aa96690800000000000000
+      internalID: -7608363114403418423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_7
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 612
+        width: 145
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60c70877fe33b3b0800000000000000
+      internalID: -5497981487497625494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_8
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 804
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6da67a061965660800000000000000
+      internalID: 7374241284177450741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_9
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 800
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff60c3620fd0fefa0800000000000000
+      internalID: -5769377272553535745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_10
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 783
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ab6aaad037f9620800000000000000
+      internalID: 2783069597273078391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_11
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 788
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545ebad6b08187a80800000000000000
+      internalID: -8468992661906528955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_12
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 762
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc6620008ca5a840800000000000000
+      internalID: 5234779807646379189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_13
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 767
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a53e020d261bbe80800000000000000
+      internalID: -8161905517115066970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_14
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 762
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213c08a7bb0ec5110800000000000000
+      internalID: 1251121892320920338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_15
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 667
+        width: 59
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1a2354ed1092de0800000000000000
+      internalID: -1357551758520180238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_16
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 740
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a577b5358be11cd0800000000000000
+      internalID: -2589029353396931163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_17
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 746
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35025c840a3b42510800000000000000
+      internalID: 1523540074955087955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_18
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 728
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb0f380880526140800000000000000
+      internalID: 4711416705367084026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_19
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 724
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25b9c2c898c4cda0800000000000000
+      internalID: -5925390651284146902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_20
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 724
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08942fddcfef975a0800000000000000
+      internalID: -6522902223260595840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_21
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 724
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62afde291f2bb7f10800000000000000
+      internalID: 2268603587933108774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_22
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 707
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8583f41cb11c210800000000000000
+      internalID: 1351391880259590334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_23
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 702
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a8ecf762d5c7aa0800000000000000
+      internalID: -6161947770215298507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_24
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 701
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52bfe2b14dc0cef40800000000000000
+      internalID: 5758992128628685605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_25
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 708
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b0049fb0fd95e60800000000000000
+      internalID: 7951631859618679584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_26
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 692
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259ef282671123520800000000000000
+      internalID: 2680223927416908114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_27
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 687
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b247a25307d3d3230800000000000000
+      internalID: 3620117227613353003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_28
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 687
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb26588af3026f1e0800000000000000
+      internalID: -2164507113122602309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_29
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 679
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16513a3b951c4ae0800000000000000
+      internalID: -1563851214163978724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_30
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 672
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a206e540d0c4c1df0800000000000000
+      internalID: -208207863974305750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_31
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 672
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b0afa1c88cfd640800000000000000
+      internalID: 5107021006535002933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_32
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 650
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126b75ac7d228a6e0800000000000000
+      internalID: -1826171338690677215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_33
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 653
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c434f2c1f870f7110800000000000000
+      internalID: 1260734731921605452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_34
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 661
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f28b14540cc2d20800000000000000
+      internalID: 3255188034369892202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_35
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 645
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176662849459ad860800000000000000
+      internalID: 7555515466843055729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_36
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 640
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e2b879793e00d80800000000000000
+      internalID: -8286373074139664764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_37
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 629
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e65f79c9636b4cc0800000000000000
+      internalID: -3725774960715671834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_38
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 623
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ab1cb4a40713d70800000000000000
+      internalID: 9021114993000692354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_39
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 611
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc832f1907f828c0800000000000000
+      internalID: -4023694648506348296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_40
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 612
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e73955fe780cdaa0800000000000000
+      internalID: -6135019251010291736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_41
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 602
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6dbc65f4314f370800000000000000
+      internalID: 8355324440158656170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_42
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 595
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355b17e21f4b1b5e0800000000000000
+      internalID: -1895535020186946221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_43
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 591
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb0c98499ef76d30800000000000000
+      internalID: 4424785093216439285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_44
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 132
+        width: 283
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be26758eae9f43c00800000000000000
+      internalID: 879602614559793899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_45
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 318
+        width: 94
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6e6640407c3ae10800000000000000
+      internalID: 2207827062409324269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_46
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 393
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71542dc8a0968bd30800000000000000
+      internalID: 4447420126061544727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_47
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 164
+        width: 206
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e17642ed1cb69f00800000000000000
+      internalID: 1123291993611858408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_48
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 377
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097d193abee6acce0800000000000000
+      internalID: -1384171977122392176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_49
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 361
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c135a316a136b24b0800000000000000
+      internalID: -5464164757932453092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_50
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 339
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87714674bd75e4130800000000000000
+      internalID: 3552873755349096312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_51
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 345
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d371c8c9241014d90800000000000000
+      internalID: -7115404550662777027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_52
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 201
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99df95ea7053ce50800000000000000
+      internalID: 6828389948792494494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_53
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 314
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db25a4045706a540800000000000000
+      internalID: 5018706892187577299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_54
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 271
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af909c083c63ad70800000000000000
+      internalID: 9053198663929601955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_55
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 324
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c727ad36c03f017c0800000000000000
+      internalID: -4102512025994104196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_56
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 281
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c288d8a2d85da4dd0800000000000000
+      internalID: -2500951840769865684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_57
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 185
+        width: 124
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591fe17ce6fb3ecf0800000000000000
+      internalID: -224125073930391147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_58
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 292
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62c1e5067f7c5c80800000000000000
+      internalID: -8332645065660710291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_59
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 307
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29fcbf7ca24762f00800000000000000
+      internalID: 1091687686776541074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_60
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 287
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d516922bcd18b40800000000000000
+      internalID: 5440872482596805895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_61
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 232
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ca8bd5c65d3ab80800000000000000
+      internalID: -8384623419828163466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_62
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 292
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8340c7d60aa8a70800000000000000
+      internalID: 8830046411505809571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_63
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 282
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df17fc284de0323c0800000000000000
+      internalID: -4385645306238242307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_64
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 281
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3fe630c428105c0800000000000000
+      internalID: -4250973310274309197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_65
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 291
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2104481b1c082e7d0800000000000000
+      internalID: -2890606441423159278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_66
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 265
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e7438dec23ccff0800000000000000
+      internalID: -14580834816983458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_67
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 281
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7abcc3f3e08478610800000000000000
+      internalID: 1623345416718044071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_68
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 275
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87396b1405adcda0800000000000000
+      internalID: -5922896497864001653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_69
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 275
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714cbcf3ba522c090800000000000000
+      internalID: -8015802969326107625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_70
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 259
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14fa46c9f9e4f8be0800000000000000
+      internalID: -1472872105696252095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_71
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 260
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8753df819fba15c30800000000000000
+      internalID: 4346444201743693176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_72
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 260
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1902546b3bc1090800000000000000
+      internalID: -8062371637474848294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_73
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 249
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443377517724516f0800000000000000
+      internalID: -714591886639680700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_74
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 233
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9921ef31482583eb0800000000000000
+      internalID: -4739947880582868327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_75
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 242
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b914ef225dbf7d550800000000000000
+      internalID: 6185689506050359707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_76
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 226
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b70fe7aceb76d70800000000000000
+      internalID: 9036400954264550293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_77
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 227
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b10a74a9abdc0290800000000000000
+      internalID: -7922716122796129864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_78
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 221
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b653cd30c9fb320800000000000000
+      internalID: 2575949052272536403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_79
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 227
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9181924c546ea20800000000000000
+      internalID: 3091234903041776112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_80
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 180
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe153df56c34398a0800000000000000
+      internalID: -6299616934470921745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_81
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 227
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a8d677de072d760800000000000000
+      internalID: 7481166096229042789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_82
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 233
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46dd74037ea550d70800000000000000
+      internalID: 9008706578618506596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_83
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 206
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f82ec5caf3171270800000000000000
+      internalID: 8221061612569503986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_84
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 211
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32bf7b2f28a297c90800000000000000
+      internalID: -7171654189704545501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_85
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 206
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef610085672c8500800000000000000
+      internalID: 399737783821889518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_86
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 195
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7797868f56bff0e50800000000000000
+      internalID: 6777912379593750903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_87
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 179
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f055ba5d5f9e8d540800000000000000
+      internalID: 5033029825647564047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_88
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 163
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5914aa5ccc6cd0890800000000000000
+      internalID: -7490112022455369323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_89
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 179
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cbf297e54a5bca90800000000000000
+      internalID: -7292635915311973434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_90
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 179
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922c77d28b0b97530800000000000000
+      internalID: 3853305261275464233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_91
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 163
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6ac66337be61dc0800000000000000
+      internalID: -3668485966379833661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatEffects_92
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 131
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47936095031ea12b0800000000000000
+      internalID: -5612926387795641996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -11,21 +11,53 @@ public class Hitbox : MonoBehaviour
     [SerializeField] private LayerMask targetLayers = ~0;
 
     private SpriteRenderer spriteRenderer;
+    private readonly HashSet<IDamageable> damagedTargets = new();
+    private bool attackActive;
 
     private void Awake()
     {
         spriteRenderer = GetComponent<SpriteRenderer>();
     }
 
-    // Called by an animation event on the active sword-swing frame.
+    private void FixedUpdate()
+    {
+        if (attackActive)
+        {
+            CheckForHits();
+        }
+    }
+
+    // Called by animation events at the beginning and end of the sword swing.
+    public void BeginAttack()
+    {
+        damagedTargets.Clear();
+        attackActive = true;
+        CheckForHits();
+    }
+
+    public void EndAttack()
+    {
+        attackActive = false;
+        damagedTargets.Clear();
+    }
+
+    // Kept for compatibility with older attack clips.
     public void PerformAttack()
+    {
+        CheckForHits();
+    }
+
+    private void OnDisable()
+    {
+        EndAttack();
+    }
+
+    private void CheckForHits()
     {
         float facingDirection = spriteRenderer.flipX ? -1f : 1f;
         Vector2 center = (Vector2)transform.position
             + new Vector2(offset.x * facingDirection, offset.y);
         Collider2D[] overlaps = Physics2D.OverlapBoxAll(center, size, 0f, targetLayers);
-        HashSet<IDamageable> damagedTargets = new();
-
         foreach (Collider2D overlap in overlaps)
         {
             foreach (MonoBehaviour behaviour in overlap.GetComponentsInParent<MonoBehaviour>())

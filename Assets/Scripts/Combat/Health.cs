@@ -8,6 +8,7 @@ public class Health : MonoBehaviour, IDamageable
     [SerializeField] private float maxHealth = 100f;
     [SerializeField, Min(0f)] private float invulnerabilityDuration;
     [SerializeField, Min(0.02f)] private float flashInterval = 0.1f;
+    [SerializeField] private bool disableOnDeath = true;
 
     private float currentHealth;
     private bool isInvulnerable;
@@ -62,7 +63,10 @@ public class Health : MonoBehaviour, IDamageable
     public void Die() 
     {
         onDeath?.Invoke();
-        gameObject.SetActive(false);
+        if (disableOnDeath)
+        {
+            gameObject.SetActive(false);
+        }
     }
 
     public float GetCurrentHealth()

@@ -1,0 +1,880 @@
+fileFormatVersion: 2
+guid: 910d43a4218f6254ca7419225a44fd8c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1769389502459344219
+    second: CorruptedSamurai-v2_0
+  - first:
+      213: -1110629976137299228
+    second: CorruptedSamurai-v2_1
+  - first:
+      213: -6086473477332773328
+    second: CorruptedSamurai-v2_2
+  - first:
+      213: -2514059564657223948
+    second: CorruptedSamurai-v2_3
+  - first:
+      213: 6470744425159852533
+    second: CorruptedSamurai-v2_4
+  - first:
+      213: -2827690882037119478
+    second: CorruptedSamurai-v2_5
+  - first:
+      213: 6416352436464564081
+    second: CorruptedSamurai-v2_6
+  - first:
+      213: 3816626127997630125
+    second: CorruptedSamurai-v2_7
+  - first:
+      213: -8670769033323226175
+    second: CorruptedSamurai-v2_8
+  - first:
+      213: -8467445641465849077
+    second: CorruptedSamurai-v2_9
+  - first:
+      213: -5156504902824705912
+    second: CorruptedSamurai-v2_10
+  - first:
+      213: 2562765424817134706
+    second: CorruptedSamurai-v2_11
+  - first:
+      213: -3644847118784088793
+    second: CorruptedSamurai-v2_12
+  - first:
+      213: -7389671248450045549
+    second: CorruptedSamurai-v2_13
+  - first:
+      213: 4774984200185141627
+    second: CorruptedSamurai-v2_14
+  - first:
+      213: -3978484521552634777
+    second: CorruptedSamurai-v2_15
+  - first:
+      213: 8684369119522294788
+    second: CorruptedSamurai-v2_16
+  - first:
+      213: 6689290082944583631
+    second: CorruptedSamurai-v2_17
+  - first:
+      213: -5824596568672001600
+    second: CorruptedSamurai-v2_18
+  - first:
+      213: 3592634554395295270
+    second: CorruptedSamurai-v2_19
+  - first:
+      213: 1747315622406013317
+    second: CorruptedSamurai-v2_20
+  - first:
+      213: -1487559976786729207
+    second: CorruptedSamurai-v2_21
+  - first:
+      213: 3576903339279467275
+    second: CorruptedSamurai-v2_22
+  - first:
+      213: 3887988116482211707
+    second: CorruptedSamurai-v2_23
+  - first:
+      213: -7214363234895126098
+    second: CorruptedSamurai-v2_24
+  - first:
+      213: 1178216606344855059
+    second: CorruptedSamurai-v2_25
+  - first:
+      213: -5207127283363441834
+    second: CorruptedSamurai-v2_26
+  - first:
+      213: 6485849157220207053
+    second: CorruptedSamurai-v2_27
+  - first:
+      213: 4321803722633327784
+    second: CorruptedSamurai-v2_28
+  - first:
+      213: -7751277450144955968
+    second: CorruptedSamurai-v2_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CorruptedSamurai-v2_0
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 818
+        width: 115
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55f46bb0622e8810800000000000000
+      internalID: 1769389502459344219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptedSamurai-v2_1
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 819
+        width: 112
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea8f6bcbef3690f0800000000000000
+      internalID: -1110629976137299228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptedSamurai-v2_2
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 818
+        width: 111
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0365eb0be90888ba0800000000000000
+      internalID: -6086473477332773328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptedSamurai-v2_3
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 818
+        width: 112
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6de6065244c1dd0800000000000000
+      internalID: -2514059564657223948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptedSamurai-v2_4
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 629
+        width: 133
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f10efd65c3bcc950800000000000000
+      internalID: 6470744425159852533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptedSamurai-v2_5
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 635
+        width: 130
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a060191ef1602c8d0800000000000000
+      internalID: -2827690882037119478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptedSamurai-v2_6
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 731
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177be21bb867b0950800000000000000
+      internalID: 6416352436464564081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptedSamurai-v2_7
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 630
+        width: 140
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6f5c7fd3167f430800000000000000
+      internalID: 3816626127997630125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptedSamurai-v2_8
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 630
+        width: 136
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cbdf4ff08d3ba780800000000000000
+      internalID: -8670769033323226175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptedSamurai-v2_9
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 635
+        width: 135
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b9f713d079d7a80800000000000000
+      internalID: -8467445641465849077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptedSamurai-v2_10
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 630
+        width: 137
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880c2987c1a6078b0800000000000000
+      internalID: -5156504902824705912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptedSamurai-v2_11
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 423
+        width: 129
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27cd0e46395c09320800000000000000
+      internalID: 2562765424817134706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptedSamurai-v2_12
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 420
+        width: 176
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725b4405bd6ea6dc0800000000000000
+      internalID: -3644847118784088793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptedSamurai-v2_13
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 421
+        width: 239
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399b735d62d927990800000000000000
+      internalID: -7389671248450045549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptedSamurai-v2_14
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 419
+        width: 263
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b795324c4d6244240800000000000000
+      internalID: 4774984200185141627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptedSamurai-v2_15
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 418
+        width: 209
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c1774186599c8c0800000000000000
+      internalID: -3978484521552634777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptedSamurai-v2_16
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 418
+        width: 211
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c8f73d3b3158870800000000000000
+      internalID: 8684369119522294788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptedSamurai-v2_17
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 231
+        width: 133
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7847993e125dc50800000000000000
+      internalID: 6689290082944583631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptedSamurai-v2_18
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 232
+        width: 147
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1a854e740ea2fa0800000000000000
+      internalID: -5824596568672001600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptedSamurai-v2_19
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 375
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e7686b71a9bd130800000000000000
+      internalID: 3592634554395295270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptedSamurai-v2_20
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 231
+        width: 150
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58140080d46bf3810800000000000000
+      internalID: 1747315622406013317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptedSamurai-v2_21
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 59
+        width: 147
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907e98125102b5be0800000000000000
+      internalID: -1487559976786729207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptedSamurai-v2_22
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 54
+        width: 205
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0349a5c2a6b3a130800000000000000
+      internalID: 3576903339279467275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptedSamurai-v2_23
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 164
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7fbcdda798e4f530800000000000000
+      internalID: 3887988116482211707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptedSamurai-v2_24
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 152
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea120777cde61eb90800000000000000
+      internalID: -7214363234895126098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptedSamurai-v2_25
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 61
+        width: 184
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31eb6a1d2cdd95010800000000000000
+      internalID: 1178216606344855059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptedSamurai-v2_26
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 59
+        width: 205
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65390e603519cb7b0800000000000000
+      internalID: -5207127283363441834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptedSamurai-v2_27
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 54
+        width: 185
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc980eae17d520a50800000000000000
+      internalID: 6485849157220207053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptedSamurai-v2_28
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 56
+        width: 178
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4358c76912afb30800000000000000
+      internalID: 4321803722633327784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptedSamurai-v2_29
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 142
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c14d942a3eed6490800000000000000
+      internalID: -7751277450144955968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
